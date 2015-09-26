@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="CustomEditText">
+        <attr name="left_drawable" format="integer"></attr>
+        <attr name="right_drawable" format="integer"></attr>
+    </declare-styleable>
+</resources>

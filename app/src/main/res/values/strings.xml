@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">OLX Techathon</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_add">Add</string>
+
+    <!-- posting page strings-->
+    <string name="hint_ad_description">Description (min. 20 chars)</string>
+    <string name="hint_ad_title">Ad Title (min. 10 chars)</string>
+    <string name="hint_choose_category">Choose category</string>
+    <string name="hint_location">Location</string>
+
+
+</resources>
